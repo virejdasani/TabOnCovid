@@ -1,0 +1,2 @@
+- This folder is called docs because it is required bu GitHub so that the site can be hosted.
+- This site contains ads that are displayed via an iFrame in the extension page
