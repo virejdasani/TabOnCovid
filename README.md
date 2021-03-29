@@ -1,5 +1,7 @@
 # TabOnCovid
 
+// Google Ads is still reviewing the website
+
 ## Raise money towards Covid-19 relief with every new tab you open!
 - This is done by showing an ad on new tabs and every penny of the profits go to the WHO Covid response fund: https://covid19responsefund.org/ 
 
